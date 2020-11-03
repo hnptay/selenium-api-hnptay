@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testNG">
+    <test name="Run on Chrome">
+       <classes>
+            <class name="api.Topic_15_Windows"></class>
+       </classes>
+    </test>
+</suite>
